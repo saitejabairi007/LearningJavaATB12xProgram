@@ -3,7 +3,7 @@ package Java_Tasks;
 public class Task_Tables_PrintF {
     public static void main(String[] args) {
 
-        System.out.printf("5 x 1 = %d%n", 5 * 1);
+        System.out.printf("5 x 1 = %d%n", 5 * 1);// /n is for new line
         System.out.printf("5 x 2 = %d%n", 5 * 2);
         System.out.printf("5 x 3 = %d%n", 5 * 3);
         System.out.printf("5 x 4 = %d%n", 5 * 4);
