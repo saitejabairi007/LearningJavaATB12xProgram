@@ -33,7 +33,7 @@ public class Lab073_Switch {
                     System.out.println("Sun");
                     break;
                 default:
-                    System.out.println("Enter input btw 1 to 7");
+                    System.out.println("Enter input btw 1 to 7");//break is not mandatory if deafult is at end
 
             }
         }
