@@ -10,5 +10,13 @@ public class Lab138_sb3 {
 
         sb.replace(0, 4, "C++");
         System.out.println(sb);
+        //insert
+        System.out.println(sb.insert(4,"-"));
+
+        StringBuffer sb2 = new StringBuffer("Hello");
+        sb2.setCharAt(1, 'a');
+        System.out.println(sb2); // Output: Hallo
+       //replace
+        System.out.println(sb2.replace(1,2,"a"));
     }
 }
