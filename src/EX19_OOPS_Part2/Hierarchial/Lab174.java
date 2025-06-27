@@ -1,4 +1,4 @@
-package EX19_OOPS_Part2.Inheritance.Hierarchial;
+package EX19_OOPS_Part2.Hierarchial;
 
 public class Lab174 {
     public static void main(String[] args) {

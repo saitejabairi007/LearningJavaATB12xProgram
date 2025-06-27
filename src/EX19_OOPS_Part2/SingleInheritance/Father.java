@@ -1,4 +1,4 @@
-package EX19_OOPS_Part2.Inheritance.SingleInheritance;
+package EX19_OOPS_Part2.SingleInheritance;
 
 public class Father {
 
