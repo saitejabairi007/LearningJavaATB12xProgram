@@ -19,9 +19,10 @@ class Father{
 
 }
 class Son extends Father{
-    Son(){
-        super();
-    }
+//    Son(){
+//        super();
+//    }
+
     String bike="yamaha";
 
     void bike(){

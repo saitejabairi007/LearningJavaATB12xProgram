@@ -8,6 +8,7 @@ public class Lab172 {
         Father f=new Father();
         Grandfather g=new Grandfather();
         g.home();
+        s.extra();
 
        // Dynamic Dispatch.
         Father f1 = new Son();

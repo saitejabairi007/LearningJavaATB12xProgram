@@ -7,4 +7,5 @@ public class Son extends Father {
         System.out.println("bhk3");
     }
 
+
 }
